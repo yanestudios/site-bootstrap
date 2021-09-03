@@ -1,3 +1,4 @@
 # SITE BOOTSTRAP
 
-Aprendendo como funciona o Git
+Aprendendo como funciona o Git.
+Estudando como funiona o Github
